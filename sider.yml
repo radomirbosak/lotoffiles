@@ -1,0 +1,5 @@
+linter:
+  pmd_java:
+    target: data
+    rulesets:
+      - default-ruleset.xml
